@@ -1,0 +1,7 @@
+apiVersion: 1
+providers:
+  - name: northfield
+    folder: Northfield
+    type: file
+    options:
+      path: /var/lib/grafana/dashboards
